@@ -1,4 +1,4 @@
-## For using this reopsitory after you cloned you must build image:
+## For using this reopsitory after you cloned it. you must build image:
 docker build -t docker-react
 Instead of docker-react you can name whatever you want as your  image name
 
