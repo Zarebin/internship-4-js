@@ -6,4 +6,4 @@ docker build -t image-name
 
 docker run -d -p 8080:80 image-name
 
-Now you can the react page see in http://localhost:8080
+Now you can see the react page in http://localhost:8080
