@@ -1,9 +1,9 @@
 ### 1. Build your image
 
-```docker build -t image-name
+`docker build -t image-name
 
 ### 2. Run your image
 
-```docker run -d -p 8080:80 image-name
+`docker run -d -p 8080:80 image-name
 
 Now you can see the react page in http://localhost:8080
