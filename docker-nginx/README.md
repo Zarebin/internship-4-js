@@ -1,1 +1,13 @@
-Each one should create a new branch from main and push its change into a seperate folder named his/her name.
+### 1. Build your image
+
+```
+docker build -t image-name
+```
+
+### 2. Run your image
+
+```
+docker run -d -p 8080:80 image-name
+```
+
+Now you can see the react page in http://localhost:8080
